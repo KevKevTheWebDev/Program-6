@@ -9,3 +9,4 @@ class apples{
 	fnum = UserTyped.nextDouble();
 	}
 }
+2:56
