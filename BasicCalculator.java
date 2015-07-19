@@ -7,8 +7,9 @@ class apples{
 	double fnum, snum, answer;
 	System.out.println("Enter a number: ");
 	fnum = UserTyped.nextDouble();
+	System.out.println("Enter a number: ");
+	snum = UserTyped.nextDouble();
+	answer = fnum+snum;
+	System.out.println(answer);
 	}
 }
-2:56
-tut 12
-https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28
